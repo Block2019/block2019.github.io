@@ -8,7 +8,7 @@ Ethereum has a built a world computer, where you can "spin it up " and build Dap
 
 So we want to help research and build something like ethereum, both by contributing proposals to ethereum , but also building our own chain.
 
-So our vision is for a person to wake up, thinks of an idea or ideas, spins up a blockchain instance or whatever we shall call it and , then spins up the rest, whether its servers or anything else required and have a world-class application for exmaple a game or a word processor or calculator out there harnessing the world's computing power or hash power what ever we shall call it.
+So our vision is for a person to wake up, thinks of an idea or ideas, spins up a blockchain instance or whatever we shall call it and , then spins up the rest, whether its servers or anything else required and have a world-class application for example a game or a word processor or calculator out there harnessing the world's computing power or hash power what ever we shall call it.
 
 From this you can already tell the proposal for such a system is still an experiment as Vitalik usually puts it, but hopeful, we shall pull it off.
 
