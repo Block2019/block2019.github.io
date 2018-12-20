@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Block2019
 
-You can use the [editor on GitHub](https://github.com/Block2019/block2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is out attempt to build a scaleable blockchain. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You know how, we can spin up a server, choose a language and start developing a website or application, we want to build the same experience as in this new blockchain era.
 
-### Markdown
+Ethereum has a built a world computer, where you can "spin it up " and build Dapps on it, but its not as simple as it sounds.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So we want to help research and build something like etheruem, both by contributing proposals to ethereum , but also building our own chain.
 
-```markdown
-Syntax highlighted code block
+So our vision is for a person to wake up, thinks of an idea or ideas, spins up a blockchain instance or whatever we shall call it and , then spins up the rest, wether its servers or anything else required and have a worldclass application forexmaple a game or a wodrprocessor or calculator out there harnessing the world's computing power or hashpower what ever we shall call it.
 
-# Header 1
-## Header 2
-### Header 3
+From this you can already tell the proposal for such a system is still an experiement as Vitalik usually puts it, but hopeful, we shall pull it off.
 
-- Bulleted
-- List
+We started out with a blank page but have choosen this direction after a series of readings and research.
 
-1. Numbered
-2. List
+We have chosen the name "Block2019", simply because we are starting like a few days from 2019, so why not, its almost like looking into the future . 
 
-**Bold** and _Italic_ and `Code` text
+Most of our work will be borrowing many things from the Ethereum project as its the most advanced computing based blockchain out there. We shall be open for contributions especially in terms of codebase.
 
-[Link](url) and ![Image](src)
-```
+Currently am working alone on this project and am still waiting for more people with whom i can build this. Am doing this as a night project since i can't quit my job, since i need to pay bills and eat food to develop the project. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## We shall be accepting donations to 
 
-### Jekyll Themes
+ETH : 0x8D3667Dd60EC381dd675B99e0d6be28CF2De73C0
+BTC : 1CLjFn8TNdiSjbwqZKQYpYoSBBzLKFQ15K
+XLM : GCYVIA5B23M6K773GUAOCU577IH56WLKHOLSQEODSQCQKRQN35KF2LZQ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Block2019/block2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hopefully , if we raise enough funds we shall do it full time with the team on board and maybe get a location.
 
-### Support or Contact
+email me: block20191@gmail.com
+twitter : https://twitter.com/Block20191
+Website(for now): https://block2019.github.io/
+Blog : https://medium.com/@amonte
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
