@@ -37,3 +37,5 @@ twitter : https://twitter.com/Block20191
 Website(for now): https://block2019.github.io/
 Blog : https://medium.com/@amonte
 
+https://medium.com/@amonte/welcome-to-block2019-49499e2dd5b6
+
