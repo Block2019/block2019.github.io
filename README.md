@@ -6,7 +6,7 @@ You know how, we can spin up a server, choose a language and start developing a 
 
 Ethereum has a built a world computer, where you can "spin it up " and build Dapps on it, but its not as simple as it sounds.
 
-So we want to help research and build something like etheruem, both by contributing proposals to ethereum , but also building our own chain.
+So we want to help research and build something like ethereum, both by contributing proposals to ethereum , but also building our own chain.
 
 So our vision is for a person to wake up, thinks of an idea or ideas, spins up a blockchain instance or whatever we shall call it and , then spins up the rest, wether its servers or anything else required and have a worldclass application forexmaple a game or a wodrprocessor or calculator out there harnessing the world's computing power or hashpower what ever we shall call it.
 
