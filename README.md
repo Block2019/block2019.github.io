@@ -22,9 +22,14 @@ Currently am working alone on this project and am still waiting for more people 
 
 ## We shall be accepting donations to 
 
-ETH : 0x8D3667Dd60EC381dd675B99e0d6be28CF2De73C0
-BTC : 1CLjFn8TNdiSjbwqZKQYpYoSBBzLKFQ15K
-XLM : GCYVIA5B23M6K773GUAOCU577IH56WLKHOLSQEODSQCQKRQN35KF2LZQ
+## ETH :
+0x8D3667Dd60EC381dd675B99e0d6be28CF2De73C0 
+
+## BTC : 
+1CLjFn8TNdiSjbwqZKQYpYoSBBzLKFQ15K
+
+## XLM :
+GCYVIA5B23M6K773GUAOCU577IH56WLKHOLSQEODSQCQKRQN35KF2LZQ
 
 Hopefully , if we raise enough funds we shall do it full time with the team on board and maybe get a location.
 
