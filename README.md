@@ -1,6 +1,6 @@
 ## Welcome to Block2019
 
-This is out attempt to build a scaleable blockchain. 
+This is our attempt to build a scaleable blockchain. 
 
 You know how, we can spin up a server, choose a language and start developing a website or application, we want to build the same experience as in this new blockchain era.
 
